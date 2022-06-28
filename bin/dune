@@ -1,0 +1,4 @@
+(executable
+ (public_name closure)
+ (name main)
+ (libraries closure))
